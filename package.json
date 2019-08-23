@@ -1,0 +1,19 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "um gateway para  pagamentos atraves de recursos http.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaokleber335/Aplicacao-api-com-estilo-rest.git"
+  },
+  "author": "João kleber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaokleber335/Aplicacao-api-com-estilo-rest/issues"
+  },
+  "homepage": "https://github.com/joaokleber335/Aplicacao-api-com-estilo-rest#readme"
+}
